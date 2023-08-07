@@ -12,11 +12,13 @@
 body {
     height: 100%;
     width: 100%;
+    background-color: grey;
     /*background-image: url('/static/images/woods.png');*/
     background-image: url('/Imagem/Espaço.jpg');
     background-attachment: fixed;
     background-position: bottom;
     background-size: cover;
+    
 }
 
 h1 {
