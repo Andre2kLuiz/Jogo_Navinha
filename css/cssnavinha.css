@@ -10,6 +10,7 @@
 }
 
 body {
+    background-color: grey;
     background-image: url("/Imagem/Espaço.jpg");
     font-family: 'Space Mono', monospace;
 }
@@ -30,6 +31,10 @@ div {
     display: flex;
     justify-content: center;
     
+}
+
+#botao {
+    padding: 20px;
 }
 
 footer {
