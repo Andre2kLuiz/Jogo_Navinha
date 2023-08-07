@@ -41,5 +41,9 @@ footer {
 }
 
 p:hover {
+    color: rgb(234, 255, 0);
+}
+
+a:visited {
     color: orangered;
 }
