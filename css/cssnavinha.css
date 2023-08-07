@@ -6,7 +6,7 @@
 * {
     padding: 0;
     margin: 0;
-    border-radius: 1px black border-box;
+    border: 0;
 }
 
 body {
@@ -14,7 +14,7 @@ body {
     width: 100%;
     background-color: grey;
     /*background-image: url('/static/images/woods.png');*/
-    background-image: url('/Imagem/Espaço.jpg');
+    background-image: url('https://images2.alphacoders.com/805/805200.jpg');
     background-attachment: fixed;
     background-position: bottom;
     background-size: cover;
@@ -37,9 +37,9 @@ div {
 footer {
     color: rgb(234, 255, 0);
     text-align: center;
-    padding: 20px;
+    padding: 35px;
 }
 
 p:hover {
-    color: red;
+    color: orangered;
 }
