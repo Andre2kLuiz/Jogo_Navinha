@@ -34,6 +34,23 @@ div {
     
 }
 
+/* Estilização básica para o botão */
+#meuBotao {
+    padding: 20px 20px;
+    font-size: 16px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    align-items: first baseline;
+  }
+  
+  /* Efeito de hover quando o mouse passa sobre o botão */
+  #meuBotao:hover {
+    background-color: #45a049;
+  }
+
 footer {
     color: rgb(234, 255, 0);
     text-align: center;
